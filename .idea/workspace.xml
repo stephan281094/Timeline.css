@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7dc36a6-a92f-4691-81d8-d706d19918a3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/3654183f9c61844aace60778e04ced96b455bda7/ie.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/3654183f9c61844aace60778e04ced96b455bda7/print.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/3654183f9c61844aace60778e04ced96b455bda7/screen.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/3654183f9c61844aace60778e04ced96b455bda7/timeline.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/8d1bbecbf03b462f4c6289df796a863187871fc8/_reset.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/a13c8bb56f9f22bec76bf32ebf03279586190ff1/timeline.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/dc3c2ad9455a8346a847e74b89758086fe56fd21/_utilities.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/timeline.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/timeline.css" afterPath="$PROJECT_DIR$/css/timeline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Timeline.css.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +28,8 @@
       <file leaf-file-name="timeline.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/timeline.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96363634" vertical-offset="1110" max-vertical-offset="2130">
-              <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+            <state vertical-scroll-proportion="-1.2545455" vertical-offset="1305" max-vertical-offset="2130">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -296,12 +286,12 @@
       <changelist id="d7dc36a6-a92f-4691-81d8-d706d19918a3" name="Default" comment="" />
       <created>1402093688838</created>
       <updated>1402093688838</updated>
-      <workItem from="1402093690373" duration="5000000" />
+      <workItem from="1402093690373" duration="5226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5000000" />
+    <option name="totallyTimeSpent" value="5226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -362,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/timeline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96363634" vertical-offset="1110" max-vertical-offset="2130">
-          <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+        <state vertical-scroll-proportion="-1.2545455" vertical-offset="1305" max-vertical-offset="2130">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding />
         </state>
       </provider>
