@@ -13,7 +13,7 @@ Timeline.css is based on Sass
 
 #Preview
 
-<img src="https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/1749/Screenshot_from_2013-06-12_16_40_18.png" style='display:block;margin:auto' alt=""/>
+<img src="http://s30.postimg.org/6yoqwrh5t/Screen_Shot_2014_06_05_at_19_35_54.png" style='display:block;margin:auto' alt=""/>
 
 #License
 ##MIT licensed
