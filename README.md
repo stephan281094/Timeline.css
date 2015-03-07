@@ -3,7 +3,7 @@ The best way to create your own Timeline, with just CSS!
 
 ## Preview
 
-<img src="http://s30.postimg.org/6yoqwrh5t/Screen_Shot_2014_06_05_at_19_35_54.png" style='display:block;margin:auto' alt=""/>
+![](https://s3.amazonaws.com/f.cl.ly/items/0Y2f3g2L331n062p1b3C/Image%202015-03-07%20at%2019%3A21%3A17.png)
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
